@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?text=JJang's%20github&type=waving&color=auto&height=200&section=header&color=autoanimation=fadeIn&)
+![header](https://capsule-render.vercel.app/api?text=JJang's%20github&type=waving&color=auto&height=200&section=header&color=auto&animation=fadeIn)
 
 
 # Introdution
